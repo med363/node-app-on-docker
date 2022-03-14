@@ -1,0 +1,21 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "\"Node.js with Docker\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "med36"
+  },
+  "keywords": [
+    "dockerfile"
+  ],
+  "author": "Med Amine Blibech",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
